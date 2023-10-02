@@ -1,6 +1,9 @@
 # Sudoku
 # 原型链接：https://modao.cc/proto/6FO13Als1ficda6H6obqK/sharing?view_mode=read_only
-**更新过程**
+**请直接运行FinalWork.py**
+
+
+**以下为更新过程**
 
 Only3.py 是最初的代码，能够正常并发生成数独
 
