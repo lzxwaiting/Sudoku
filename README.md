@@ -1,6 +1,6 @@
 # Sudoku
 # 原型链接：https://modao.cc/proto/6FO13Als1ficda6H6obqK/sharing?view_mode=read_only
-# **请直接运行FinalWork.py**
+# **请直接运行FinalWork.exe**
 
 
 **以下为更新过程**
